@@ -19,7 +19,7 @@ The guiding rule, from the evidence: give the agent the **smallest set of high-s
 
 ```bash
 /plugin marketplace add DeltaCodeNetwork/docforge
-/plugin install docforge@docforge
+/plugin install docforge@deltacode
 ```
 
 Install globally (available in every project) or per-project (`--scope project`, shared with your team via git).
