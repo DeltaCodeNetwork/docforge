@@ -1,0 +1,15 @@
+{
+  "name": "docforge",
+  "owner": {
+    "name": "DeltaCode Network"
+  },
+  "description": "DeltaCode documentation tooling — research-backed wikis for humans and coding agents.",
+  "plugins": [
+    {
+      "name": "docforge",
+      "source": "./",
+      "description": "Build and maintain a comprehensive, layered wiki optimized for coding agents (primary) and humans (secondary).",
+      "version": "0.1.0"
+    }
+  ]
+}

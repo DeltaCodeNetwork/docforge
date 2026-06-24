@@ -1,0 +1,18 @@
+{
+  "name": "docforge",
+  "displayName": "DocForge",
+  "version": "0.1.0",
+  "description": "Build and maintain a comprehensive, layered wiki optimized for coding agents (primary) and humans (secondary). Scaffolds the structure into any project, drafts pages from the codebase, and lints for staleness, orphans, and contradictions.",
+  "author": {
+    "name": "DeltaCode Network"
+  },
+  "repository": "https://github.com/DeltaCodeNetwork/docforge",
+  "keywords": [
+    "documentation",
+    "wiki",
+    "diataxis",
+    "agents",
+    "context-engineering",
+    "adr"
+  ]
+}
